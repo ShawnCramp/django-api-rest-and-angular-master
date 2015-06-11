@@ -1,0 +1,7 @@
+Django>=1.7
+djangorestframework<3.0
+pillow
+
+# Optional
+Werkzeug
+django-extensions
